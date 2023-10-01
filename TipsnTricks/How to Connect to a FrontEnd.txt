@@ -4,7 +4,7 @@
 // Example using product data
 
 // useAsyncAwait code from React-Custom-Hooks Repo
-import useAsyncAwait from "../hooks/useAsyncAwait"
+import useAsyncAwait from "../Hooks/useAsyncAwait"
 
 // const productUrl = process.env.PRODUCT_ENDPOINT;
 const productUrl = "https://express-async-server-es6-mongodb.onrender.com/api/products";
