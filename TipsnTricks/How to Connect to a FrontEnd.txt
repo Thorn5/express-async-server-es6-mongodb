@@ -1,4 +1,4 @@
-// Host the frontend and backend on a service like Render
+// Host the frontend and backend on a service like Render, AWS Elastic Beanstalk | Lamda, Heroku, CodeSpaces...
 // https://github.com/settings/installations/36624084
 
 // Example using product data
